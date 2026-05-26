@@ -2,6 +2,13 @@
 
 > 🎮 基于 Cocos Creator 3.8.6 开发的节奏音乐游戏
 
+## 游戏截图
+
+| | |
+|:---:|:---:|
+| ![screenshot1](screenshots/1.png) | ![screenshot2](screenshots/2.png) |
+| ![screenshot3](screenshots/3.png) | ![screenshot4](screenshots/4.png) |
+
 ## 游戏玩法
 
 ### 1️⃣ 开始游戏
